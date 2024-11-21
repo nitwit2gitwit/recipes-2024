@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - main
+permissions:
+  id-token: write
+  contents: read
 jobs:
   build-and-deploy:
     runs-on: ubuntu-22.04
@@ -25,4 +28,4 @@ jobs:
           aws-region: us-east-1
           role-to-assume: arn:aws:iam::442430797903:role/n2g-recipes-2024-claude-apps-com-UploadRole-MY8Db4LV3ygW
       - name: Deploy
-        run: aws s3 sync --delete --exclude=beta/\* --content-encoding utf8 _site s3://recipes-2024.claude-apps.com/website/
+        run: aws s3 sync --delete --exclude=beta/\* --content-encoding utf8 _site s3://n2g-recipes-2024.claude-apps.com/website/
