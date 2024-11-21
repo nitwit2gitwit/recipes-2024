@@ -1,0 +1,28 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+  resources:
+    - "*.webp"
+    - "*.png"
+    - "*.jpeg"
+    - "*.jpg"
+    - "*.svg"
+    - "*.css"
+
+website:
+  title: "Recipes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: recipes.qmd
+        text: Recipes
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual

@@ -1,0 +1,23 @@
+---
+title: Home
+toc: false
+---
+
+# Recipes 2024
+
+The 2024 n2g class wants to share some of their best recipes.
+
+
+::: {.callout-note}
+The recipes may or may not have been tries out by the authors, and may or may not:
+
+- actually have been written by ChatGPT
+- copy-pasted from somewhere
+- just completely made up with ingredients that are not designed for human consumption
+
+Basically, use at your own risk.
+:::
+
+See the recipes tab above.
+
+![kitchen](images/kitchen.png)

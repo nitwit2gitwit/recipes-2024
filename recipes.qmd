@@ -1,0 +1,7 @@
+---
+title: Home
+listing:
+  contents:
+    - "recipes/*.qmd"
+  type: grid
+---
