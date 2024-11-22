@@ -5,6 +5,12 @@
 
 ## Ingredients:
 
+::: {.callout-important appearance="minimal"}
+The part of the carrot that we will be using here (the red-orange part) is a root of Wild carrot *Daucus carota*. However, whether something is a root or not is famously causing confusion among non-biologist type of folks. For example, if you type 'root' on your phone, Gboard will propose an emoji of ginger root. And that is not a root, not at all. It's a rhizome, which is actually a stem!
+
+Know your roots, people!
+:::
+
 **Dough:**
 
 -   carrots (medium size) - 2
