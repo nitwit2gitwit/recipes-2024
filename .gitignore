@@ -4,3 +4,6 @@ lessons/index.md
 /.quarto/
 *.quarto_ipynb
 *.html
+.Rproj.user
+.Rhistory
+*.Rproj
