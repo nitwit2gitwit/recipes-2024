@@ -3,7 +3,7 @@
   author: Kasia
 ---
 
-![How it's meant to be eaten](images/good_day.jpeg)
+![](images/good_day.jpeg){width="200"}
 
 Short intro
 
