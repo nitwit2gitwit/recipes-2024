@@ -5,29 +5,39 @@ author: "Kristin"
 
 With this recipe you can make a fabulous German Hefezopf. Be aware that the making of this delicious bread takes around three hours.
 
-
-::: callout-note
+::: {.callout-note appearance="simple"}
 In Europe itself there are different characteristics which can be found in the Hefezopf. In Bavaria for instance, particularly in the Upper Palatinate region, as per a local custom of Spitzlschenkens where by a Godfather, during the baptism gives an Allerheiligenspitzi, a large plait to his Godson. In Rhineland pretzel shaped bread plaits are served which carry fillings of almonds and granulated sugar. Saxony has its own tradition where there is a dish that goes by the name of Brötchentei. It also involves both sweet yeast plaits and regular yeast plaits along with poppy fillings. In the upper Franconia region you can find Hefezopf usually in the form of a round egg shaped ring. It is a speciality during Easter in the region. (lots of information from ilikegermany.com)
 :::
 
+# Hefezopf: The German Braided Bread
 
-Hefezopf: The German Braided Bread
-
-Ingredients:
+### Ingredients:
 
 For the yeast dough:
--  400g flour
--  180 milk (slightly warm)
--  20g fresh yeast
--  60g sugar
--  1 egg
--  75g soft butter
--  a pinch of salt
--  1 teaspoon of vanilla sugar
+
+-   400g flour
+-   180ml milk (slightly warm)
+-   20g fresh yeast
+-   60g sugar
+-   1 egg
+-   75g soft butter
+-   a pinch of salt
+-   1 teaspoon of vanilla sugar
 
 To finish:
--  1 egg yolk
--  20ml milk
+
+-   1 egg yolk
+-   20ml milk
+
+### Instructions
+
+Step-by-step guide
+
+Step 1: 
 
 
-![This is a horrible picture of the baked yeast braide but I promise it is very tasty](images/Hefezopf.jpeg)
+
+
+
+
+![This is a horrible picture of the baked yeast braide but I promise it is very tasty](images/Hefezopf.jpeg){width="300"}
