@@ -3,7 +3,9 @@
   author: Marta
 ---
 
-## Ingredients:
+![Wild carrot from a botany textbook according to ChatGPT](images/carrot.webp){fig-align="center" width="500"}
+
+### Ingredients
 
 ::: {.callout-important appearance="minimal"}
 The part of the carrot that we will be using here (the red-orange part) is a root of Wild carrot *Daucus carota*. However, whether something is a root or not is famously causing confusion among non-biologist type of folks. For example, if you type 'root' on your phone, Gboard will propose an emoji of ginger root. And that is not a root, not at all. It's a rhizome, which is actually a stem!
@@ -37,8 +39,40 @@ Know your roots, people!
 
 -   cream cheese (the fluffy type like Almette )
 
--   powdered sugar - the original recipe said 120 grams, but it's way to much, I add 50 grams
+-   powdered sugar - the original recipe said 120 grams, but it's way to much, I add 20 grams
 
 -   butter - 50 g
 
--   orange juice - squeezed from a 0.25 of orange
+-   orange juice - squeezed from a 0.25 of orange - or more, if you want it to be less solid/ more orangy
+
+### Step by step
+
+**Dough:**
+
+1.  Mix eggs with sugar. Add oil and mix.
+
+2.  In separate container mix flour, baking soda, baking powder, salt and cinnamon. Do the mixing with spoon, not with kitchen robot, otherwise everything will explode :)
+
+3.  Mix the mixed stuff from the previous steps.
+
+4.  Add grated carrot and (again) mix everything together with spoon
+
+5.  Add chopped nuts and mix everything together.
+
+6.  Put into baking tin on baking paper. Bake in 180 C for \~35 minutes
+
+**Cream:**
+
+1.  Melt the butter and wait for it to cool down a bit
+
+2.  Mix butter with cream cheese, melted butter, powdered sugar and orange juice
+
+3.  Put the cream on top on your baked cake, after it cools down
+
+*SMACZNEGO!*
+
+::: {.callout-tip appearance="minimal"}
+**DRINKING GAME!**
+
+Make this baking experience fun for yourself and drink every time you read 'mix' in the recipe!
+:::

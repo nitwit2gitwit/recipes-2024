@@ -1,0 +1,51 @@
+---
+title: Bread
+author: Antoine
+---
+
+::: {.callout-important appearance="minimal"}
+If you are tired of polish bread or of spending all your salary in Bienvenu, you can make your own tasteful "french" bread with this recipe.
+:::
+
+## Ingredients:
+
+-   500 gr of wholegrain flour (typ 2000 in Poland, T110 in France)
+-   250 g of flour (typ 480 in Poland, T55 in France)
+-   1 Table spoon of salt
+-   40 gr of yeast (I used the fresh one you can find with the butter in supermarkets, but it would work with dehydrated ones). Alternatively you can use 200g of sourdough (doesn't have to be one that grew in the Arctic, but it does sound cooler; pun intended)
+-   1 pinch of sugar
+-   45 cl of water
+
+(optional : herbs, dried tomatoes, olives…)
+
+## Preparation:
+
+Put 10 cl of water in the microwave until a little warm (not too hot). Add the yeast, a pinch of sugar and stir. Leave for around 10 minutes.(This step is optional if you use sourdough)
+
+In a big bowl, mix the flour and the salt and make a little well in the centre. Add the yeast and stir.
+
+Add the water until obtaining a homogenous dough (needs to be a little “liquid” and not too sticky).
+
+Work out the dough by kneading it (if you don't know the word, look for it [here](https://en.wiktionary.org/wiki/knead) ) for around 20 minutes (stretching it and then folding it on itself).
+
+Form a ball of dough and leave it in a warm place, under a wet tea towel for at least 2h.
+
+Once the ball is twice its original size, place it on a workplan lightly dusted with flour, and fold it on itself 3 to four times.
+
+## Shaping:
+
+Give the shape you want (baguette, long bread, ball…)
+
+Lightly dust a baking tray with flour, and place the bread on it. Leave it under a tea towel for 30-40 minutes (basically the time for the oven to pre-heat, sorry for spoiling one of the next steps).
+
+## Baking:
+
+Put water in a dish (that can go to the oven) and place it on the bottom of the oven.
+
+Preheat the oven at maximum temperature (250° C at least is better).
+
+Place your bread in the oven (should be hot and moist) for 10 minutes at the max temperature, then reduce to 210° C and leave the bread for at least 30 minutes more.
+
+The bread is ready when it has a golden colour and sound hollow when you knock on the crust.
+
+![How it should look like in the end](images/Bread.webp)
