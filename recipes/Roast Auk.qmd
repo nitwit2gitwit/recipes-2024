@@ -1,6 +1,7 @@
 ---
 title: "Roast Auk"
-author: "Kasia"
+Author: Jacob <jlag2019@mymail.pomona.edu>
+Date:   Wed Nov 27 16:00:36 2024 +0000
 ---
 
 ![Catching our meal](images/thumbnail_IMG_9650 (1).jpg)This is my favorite to enjoy our beloved birds!
