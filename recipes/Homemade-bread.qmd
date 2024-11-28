@@ -4,13 +4,13 @@ author: Antoine
 ---
 
 ::: {.callout-important appearance="minimal"}
-If you are tired of polish bread or of spending all your salary in Bienvenu, you can make your own tasteful "french" bread with this recipe.
+If you are tired of polish bread or of spending all your salary in [Bienvenu](https://www.google.pl/maps/place/BIENVENU+%7C+piekarnia+francuska/@54.3821843,18.5840349,17z/data=!3m1!4b1!4m6!3m5!1s0x46fd75426355e235:0x2416342186c32b7d!8m2!3d54.3821812!4d18.5866098!16s%2Fg%2F11j7vr7rwm?hl=fr&entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D), you can make your own tasteful "french" bread with this recipe.
 :::
 
 ## Ingredients:
 
--   500 gr of wholegrain flour (typ 2000 in Poland, T110 in France)
--   250 g of flour (typ 480 in Poland, T55 in France)
+-   500 gr of wholegrain flour (typ 2000 in Poland/ T110 in France)
+-   250 g of flour (typ 480 in Poland/ T55 in France)
 -   1 Table spoon of salt
 -   40 gr of yeast (I used the fresh one you can find with the butter in supermarkets, but it would work with dehydrated ones). Alternatively you can use 200g of sourdough (doesn't have to be one that grew in the Arctic, but it does sound cooler; pun intended)
 -   1 pinch of sugar
@@ -20,21 +20,21 @@ If you are tired of polish bread or of spending all your salary in Bienvenu, you
 
 ## Preparation:
 
-Put 10 cl of water in the microwave until a little warm (not too hot). Add the yeast, a pinch of sugar and stir. Leave for around 10 minutes.(This step is optional if you use sourdough)
+Put 10 cl of water in the microwave until a little warm (not too hot). Add the yeast, a pinch of sugar and stir. Leave for around 10 minutes (This step is optional if you use sourdough).
 
-In a big bowl, mix the flour and the salt and make a little well in the centre. Add the yeast and stir.
+In a big bowl, mix the flour and the salt and make a little well in the center. Add the yeast and stir.
 
-Add the water until obtaining a homogenous dough (needs to be a little “liquid” and not too sticky).
+Add the water until obtaining a homogeneous dough (needs to be a little “liquid” and not too sticky).
 
-Work out the dough by kneading it (if you don't know the word, look for it [here](https://en.wiktionary.org/wiki/knead) ) for around 20 minutes (stretching it and then folding it on itself).
+Work out the dough by kneading it (if you don't know the word, look for it [here](https://en.wiktionary.org/wiki/knead); but basically it consists of stretching the dough and then folding it on itself) for around 20 minutes .
 
 Form a ball of dough and leave it in a warm place, under a wet tea towel for at least 2h.
 
-Once the ball is twice its original size, place it on a workplan lightly dusted with flour, and fold it on itself 3 to four times.
+Once the ball is twice its original size, place it on a kitchen counter lightly dusted with flour, and fold it on itself three to four times.
 
 ## Shaping:
 
-Give the shape you want (baguette, long bread, ball…)
+Give the shape you want (baguette, long bread, ball…) to the dough.
 
 Lightly dust a baking tray with flour, and place the bread on it. Leave it under a tea towel for 30-40 minutes (basically the time for the oven to pre-heat, sorry for spoiling one of the next steps).
 
@@ -46,6 +46,8 @@ Preheat the oven at maximum temperature (250° C at least is better).
 
 Place your bread in the oven (should be hot and moist) for 10 minutes at the max temperature, then reduce to 210° C and leave the bread for at least 30 minutes more.
 
-The bread is ready when it has a golden colour and sound hollow when you knock on the crust.
+The bread is ready when it has a golden colour and sounds hollow when you knock on the crust.
 
 ![How it should look like in the end](images/Bread.webp)
+
+## Enjoy!
