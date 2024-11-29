@@ -5,7 +5,7 @@
 
 If you want to be a real french person - yes, yes you want it - then you must know how to make a good "gratin". And here, you are not going to learn how to make *any* gratin, you are going to make the incredible, the one and only: **Gratin dauphinois** or "pommes de terre à la dauphinoise" if you will.
 
-![](images/gratin-dauphinois.jpeg)
+![](images/dauphinois.jpeg){fig-align="center"}
 
 ::: {.callout-note appearance="simple"}
 Let's tackle a hot topic on the french soil right off the bat: a true gratin dauphinois does **not** contain cheese. Nope, not even a little sprinkle on top. And yes, I know what you're thinking*---but it's called a gratin!* ok, I hear you. But if you're already reaching for the cheese, somewhere in France, a purist is dramatically clutching their pearls (or their potato peeler). Now, if annoying a French traditionalist feels like a win in your book, well who am I to stop you... two birds, one stone, I guess? That being said, I'm not one of them. So, if cheese makes your heart happy, by all means, go for it. If it's the idea of breaking unspoken culinary rules that gives you joy, okay, that's a little mischievous, but I'll allow it.
