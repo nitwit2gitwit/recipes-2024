@@ -6,7 +6,7 @@
 
 ![](images/good_day.jpeg){width="700"}
 
-::: callout-note
+::: {.callout-note appearance="simple" icon="false"}
 ## Utility of the recipe
 
 Some days are easy to start, it may be almost guaranteed they gonna be good ones because you have something good, exciting planned. Other days may be harder to start because you have something stressful ahead (C'est la vie). However, most days are just neutral (neither good or bad at the beginning) and with these tiny tricks below you can easily convert these days into happy ones.
