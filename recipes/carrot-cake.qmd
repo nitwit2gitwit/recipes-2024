@@ -13,6 +13,18 @@ The part of the carrot that we will be using here (the red-orange part) is a roo
 Know your roots, people!
 :::
 
+::: {.callout-warning appearance="minimal"}
+## Cups and spoons into volume
+
+What's the main difference between baking a cake and doing a PCR? For one of them, you don't need a high-precision lab pipette measuring droplet volume to the nearest 0.1 µl
+
+When baking, I'm more of a 'na oko' person. But for those who need the utmost precision in their recipes:
+
+-   my cup is 250 ml
+
+-   my tea spoon is 5 ml
+:::
+
 **Dough:**
 
 -   carrots (medium size) - 2
