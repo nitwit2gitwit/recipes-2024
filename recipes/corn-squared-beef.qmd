@@ -1,11 +1,11 @@
 ---
-title: "Corn^2 Beef"
+title: "Corn$^2$ Beef"
 author: "Jacob"
 ---
 
 A warm dish perfect for when you only have canned goods available and need something warm to eat.
 
-![](images/corn cubed beef.png)
+![](images/corn%20cubed%20beef.png)
 
 Ingredients:
 
