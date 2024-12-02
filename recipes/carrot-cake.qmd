@@ -16,7 +16,7 @@ Know your roots, people!
 ::: {.callout-warning appearance="minimal"}
 ## Cups and spoons into volume
 
-What's the main difference between baking a cake and doing a PCR? For one of them, you don't need a high-precision lab pipette measuring droplet volume to the nearest 0.1 µl
+What's the main difference between baking a cake and doing a PCR? For one of them, you don't need a high-precision lab pipette measuring droplet volume to the nearest 0.1 $\mu 1$
 
 When baking, I'm more of a 'na oko' person. But for those who need the utmost precision in their recipes:
 
