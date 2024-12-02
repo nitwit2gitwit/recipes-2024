@@ -1,11 +1,12 @@
 ---
   title: Dutch Cheese Fondue
   author: Claude
+  from: markdown+emoji
 ---
 
 ![How it's meant to be eaten](images/cheese-fondue.webp)
 
-The swiss think they invented Cheese Fondue -- and maybe this is true -- but the best Fondue in the world is made with Dutch Cheeses.
+The swiss think they invented Cheese Fondue -- and maybe this is true -- but the best Fondue in the world is made with Dutch Cheeses :cheese: :cheese:.
 
 ::: {.callout-note}
 Even though foreigners like to tell us that all hard Dutch cheeses are Gouda 
