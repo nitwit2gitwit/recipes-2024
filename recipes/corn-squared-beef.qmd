@@ -5,6 +5,8 @@ author: "Jacob"
 
 A warm dish perfect for when you only have canned goods available and need something warm to eat.
 
+![](images/corn cubed beef.png)
+
 Ingredients:
 
 -   Corned beef (must be from a can for full effect)
