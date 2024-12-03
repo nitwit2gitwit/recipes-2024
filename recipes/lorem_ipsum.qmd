@@ -1,5 +1,8 @@
-This is a Quarto website with a Lorem Ipsum recepie
-
+---
+title: Lorem Ipsum
+author: Szymon (https:\\github.com\sslomkowski)
+---
+This is a placeholder recipe, later to be update with possibly a cardamom bun recipe
 To learn more visit <https://www.lipsum.com/>
 
 ### LOREM IPSUM recipe:
