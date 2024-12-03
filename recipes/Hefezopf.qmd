@@ -49,4 +49,4 @@ Bake for around 35 minutes until golden brown.
 
 
 
-![This is a horrible picture of the baked yeast braide but I promise it is very tasty](images/Hefezopf.jpeg){width="300"}
+![This is a horrible picture of the baked yeast braid but I promise it is very tasty](images/Hefezopf.jpeg){width="300"}
