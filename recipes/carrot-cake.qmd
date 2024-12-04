@@ -5,7 +5,7 @@
   title-block-banner-color: 'white'
 ---
 
-![Wild carrot from a botany textbook according to ChatGPT :brain:
+![Wild carrot from a botany textbook according to ChatGPT :brain:](images/carrot.webp){fig-align="center" width="500"}
 
 ### Ingredients
 
