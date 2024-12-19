@@ -1,0 +1,75 @@
+---
+title: Cardamom bun
+author: Szymon (https:\\github.com\sslomkowski)
+---
+![](images/cardamom-buns.jpg){width="700"}
+
+This is a recipe for cardamom buns, inspired by my November trip to Copenhagen
+
+### Cardamom bun recipe:
+
+#### Time needed: ~ 2-3 hours
+
+#### Servings: ~ 15 cardamom buns
+
+#### Essential tools: a bowl and a oven
+::: callout-tip
+Having a kitchen scale is super handy
+:::
+
+::: {.callout-note title="Ingredients" icon=false}
+For dough
+1. 600g of flour
+2. 250g of milk
+3. 100g of sugar
+4. 100g of room temperature butter
+5. 15g of cardamom
+6. 15-20g of fresh yeast or 7g of dry yeast
+7. 5g of salt
+
+For butter filling
+1. 150g of soft butter
+2. 150g of sugar
+3. 3g of vanilla sugar
+4. optionally a pinch of salt
+
+For Cardamom sugar
+1. 50g of sugar
+2. 20g of cardamom
+:::
+
+#### Steps:
+1. Prepare the dough
+    * If you are using a dry yeast: in a cup mix it with some water and sugar basically revive it.
+    * In the bowl combine flour, sugar, butter, cardamom and (fresh) yeast, mix them either by hand or by the mixer on low speed.
+    * Add milk (and if you are using dry yeast add it now after "reviving it")
+    * Mix for some time and add the salt
+    * Work the dough for 10 min
+    * If everything is well incorporated cover the dough with a kitchen towel and let it rise until it has doubled in size
+    * Punch it down and place it in a fridge until it chilled down after the punch, alright? Give it some rest, it was tough. But not to much we are working here
+
+2. Prepare butter filling and cardamom sugar
+    * In a different bowl combine butter, sugar and vanilla sugar
+    * In a another bowl combine sugar and cardamom
+
+3. Shape the buns
+    * Take out the dough, and roll it out into a rectangle (it should be around 1cm thick)
+    * Spread the filling onto the entire surface of the dough
+    * Spinkle in a lot of cardamom sugar
+    * Fold the dough in thirds (take the lower "long" edge and fold it up, then take the upper edge and fold it onto the previously folded part)
+    * Roll it out again to previous shape
+    * Cut the dough to ~2cm wide strips following the shorter edge of the rectangle
+    * Elongate the dough stip delicatly. Be gentle. You don't want to stress it out, it had a rough day
+    * Form it into the disired shape. Usually it's done by placing one tip between you ring and middle finger, wrapping it twice around your spead index and middle finger, halfway through the second wrap go across the wrapping , fold it into the creavice between your spread finger.
+        Sounds wierd? It is, use some yt video (I'll link one below). But you can shape it in whatever form you like - hearts, rocks, Eldritch Horrors, Old Gods - be creative, give it some love
+    * Place it on the baking tray coverd with baking paper and cover them with a kitchen towel or plastic wrap
+    * Let them rise for 10/15min, during this time preheat the oven to 200C
+    * Bake them for 15min, after that time tkae them out, paint them with egg wash, spinkle more cardamom sugar on top
+    * Put them back in the oven until lovely brown and not burned
+    * Let them cool down a little bit
+
+4. Enjoy!
+
+::: {.callout-tip title="https://www.youtube.com/watch?v=RN92jKn2ia0"}
+Some video inspiration and dough shaping technique
+:::
